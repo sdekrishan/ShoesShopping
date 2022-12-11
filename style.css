@@ -186,6 +186,7 @@ height: 100vh;
 background-color: whitesmoke;
 position: relative;
 clip-path: polygon(0 12%, 100% 0, 100% 100%, 0 100%);
+border:2px solid green
 }
 
 .payment{
@@ -415,7 +416,7 @@ footer{
     font-size: .7rem
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:580px) {
     nav{
     padding: 20px;        
     }
@@ -472,14 +473,14 @@ footer{
         width: 80%;
     }
     .productDetails{
-        position: relative;
         width: 100%;
-        top:0;
         padding: 0;
         display: flex;
         flex-direction: column;
         align-items: center;
         text-align: center;
+        top: 0;
+        position: relative;
     }
     .productTitle{
         font-style: 50px;
@@ -515,7 +516,7 @@ footer{
 }
 
 
-@media screen and (min-width:481px)and (max-width:980px) {
+@media screen and (min-width:581px)and (max-width:980px) {
     nav{
     padding: 20px;        
     }
@@ -558,20 +559,21 @@ footer{
         right: 0;
     }
 
-    .features{
+    /* .features{
         flex-direction: column;
-    }
+    } */
 
-    .product{
+    /* .product{
         clip-path: none;
         display: flex;
         flex-direction: column;
         align-items: center;
+        border:2px solid green; 
     }
     .productImg{
-        width: 80%;
-    }
-    .productDetails{
+        width: 50%;
+    } */
+    /* .productDetails{
         position: relative;
         width: 100%;
         top:0;
@@ -580,7 +582,7 @@ footer{
         flex-direction: column;
         align-items: center;
         text-align: center;
-    }
+    } */
     .productTitle{
         font-style: 50px;
         margin: 0;
@@ -591,6 +593,7 @@ footer{
     .newSeason{
         flex-direction: column;
     }
+  
     .nsItem:nth-child(2){
         padding: 50px;
     }
