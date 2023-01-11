@@ -5,10 +5,6 @@ A Static Shoe Shoppin App where User Can See some of shoes. It is made with Html
 
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
 
 # Hi, I'm Krishan! 👋
 
