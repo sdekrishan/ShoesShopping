@@ -14,17 +14,17 @@ A Static Shoe Shoppin App where User Can See some of shoes. It is made with Html
 
 ## Screenshots
 
-![Landing Page](https://drive.google.com/file/d/1j0BZJPfoWJFh7OH6LkyDvF02duEw9Y3I/view?usp=sharing)
+![Landing Page](https://user-images.githubusercontent.com/107391017/211805389-70d2398e-1853-4491-9637-548fc37d4fc0.png)
 
-![Products](https://drive.google.com/file/d/1j0BZJPfoWJFh7OH6LkyDvF02duEw9Y3I/view?usp=sharing)
+![Product Details](https://user-images.githubusercontent.com/107391017/211808098-2e5e66ad-48ed-4313-9dcf-d300f23db211.png)
 
-![Product Details](https://drive.google.com/file/d/1j0BZJPfoWJFh7OH6LkyDvF02duEw9Y3I/view?usp=sharing)
+![Producs](https://user-images.githubusercontent.com/107391017/211808120-4b619b3a-b3c1-439a-a8d4-eda8f90039a4.png)
 
-![Footer](https://drive.google.com/file/d/1j0BZJPfoWJFh7OH6LkyDvF02duEw9Y3I/view?usp=sharing)
+![Footer](https://user-images.githubusercontent.com/107391017/211808137-b046968a-8528-4dc7-9e25-5d7ada5c7fa6.png)
 
-![Payment](https://drive.google.com/file/d/1j0BZJPfoWJFh7OH6LkyDvF02duEw9Y3I/view?usp=sharing)
+![Payment Page](https://user-images.githubusercontent.com/107391017/211808128-11de5084-39fa-4bd8-b14f-566e382b446b.png)
 
-![shoe shopping](https://user-images.githubusercontent.com/107391017/211805389-70d2398e-1853-4491-9637-548fc37d4fc0.png)
-
-
-
+##Tech Stack
+-Html
+-Css
+-JavaScript
